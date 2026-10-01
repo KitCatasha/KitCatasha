@@ -47,6 +47,9 @@ A product website for NÜGEL, combining my interest in web design with building 
 
 I’m always excited and open to connecting with anyone with similar interests. Let's exchange ideas and create something new!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-527A64?style=for-the-badge)](https://www.linkedin.com/in/natasha-machate/)
+[![Instagram](https://img.shields.io/badge/Instagram-786A98?style=for-the-badge)](https://www.instagram.com/natzyowild/)
+[![Email](https://img.shields.io/badge/Email-486A89?style=for-the-badge)](mailto:machate.natasha@gmail.com)
 
 ## Fun Facts About Me
 
@@ -55,12 +58,23 @@ I’m always excited and open to connecting with anyone with similar interests. 
 - Always trying out new skills
 - I used to have 18 cats
 
+## My Little Coding Garden 🌱
+
+A little tree shaped by my GitHub journey.
+
+<p align="center">
+  <img src="./output/bonsai-growth.gif" width="384" alt="My bonsai growing from my GitHub history" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorthinks/git-bonsai">Grown with Git Bonsai</a>
+</p>
 
 Thanks for visiting my profile. I hope we can connect!
 
 ---
 
-_“Exploring the world, one gene and one frame at a time.”_
+
 
 
 <!---
