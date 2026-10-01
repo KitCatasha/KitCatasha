@@ -1,6 +1,8 @@
 # Hi👋! I'm KitCatasha 🐢
 
-Welcome to my GitHub profile!  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=579D90&center=true&vCenter=true&width=650&lines=Exploring+biology+through+code;Capturing+the+world+one+frame+at+a+time;Inspired+by+nature+and+the+stars" alt="Exploring biology through code, capturing the world, and finding inspiration in nature and the stars" />
+</p>
 
 ## About Me
 
