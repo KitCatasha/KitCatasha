@@ -1,3 +1,5 @@
+![A turtle gazing at a starry sky above a forest lake](./banner.png)
+
 # Hi👋! I'm KitCatasha 🐢
 
 <p align="center">
@@ -6,15 +8,28 @@
 
 ## About Me
 
-I'm a Master's student at Göttingen University, studying Computational Biology and Bioinformatics. I just started to delve into the programming world, and I'm excited to contribute in the Biological field while learning. I also love making cinematic travel videos and capturing the world. 
+I'm Natasha, also known as KitCatasha, a Master's student in Computational Biology and Bioinformatics at the University of Göttingen, with a background in Biological Chemistry.
+
+I use Python and R to explore biological data. My projects include multi-objective feature selection for omics and ATAC-seq analysis, and I'm interested in how machine learning can help us understand health and disease.
+
+I also love bringing new ideas to life through web design, apps, and creative projects. Beyond the code, I enjoy painting, creating cinematic travel photos and videos, and going on adventure side quests. Nature, new places, and starry skies...love them! 🌿🎨📸🌌
+
+## Tools I Use & Explore
+
+**Research & data analysis**
+
+![Python, R, scikit-learn, Bash, Linux and Git](https://skillicons.dev/icons?i=py,r,sklearn,bash,linux,git&theme=dark&perline=6)
+
+**Web & app development**
+
+![HTML, CSS, JavaScript, React, Next.js and Django](https://skillicons.dev/icons?i=html,css,js,react,nextjs,django&theme=dark&perline=6)
 
 ## My Interests
 
-- 🔬 Bioinformatics & computational biology
-- 📸 Cinematic travel photo/videography
-- 🌍 Exploring new places & adventures
-- 💪 Staying active and fit
-- 🌌 Skygazing
+- 💻 Designing & building new projects
+- 🎨 Painting, arts & crafts
+- 🚴 Badminton, cycling & travel
+- ✨ Anime & imaginative worlds
 
 ## Let's Connect
 
