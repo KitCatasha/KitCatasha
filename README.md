@@ -12,7 +12,7 @@ I'm Natasha, also known as KitCatasha, a Master's student in Computational Biolo
 
 I use Python and R to explore biological data. My projects include multi-objective feature selection for omics and ATAC-seq analysis, and I'm interested in how machine learning can help us understand health and disease.
 
-I also love bringing new ideas to life through web design, apps, and creative projects. Beyond the code, I enjoy painting, creating cinematic travel photos and videos, and going on adventure side quests. Nature, new places, and starry skies...love them because Allah created this beauty! 🌿🎨📸🌌
+I also love bringing new ideas to life through web design, apps, and creative projects. Beyond the code, I enjoy painting, creating cinematic travel photos and videos, and going on adventure side quests. Nature, new places, and starry skies... I love them because Allah created this beauty! 🌿🌌
 
 ## Tools I Use & Explore
 
@@ -27,11 +27,13 @@ I also love bringing new ideas to life through web design, apps, and creative pr
 ## Featured Projects
 
 ### 🔬 EMOO-FS
+
 Multi-objective feature selection for omics data, balancing predictive performance with the number of selected features.
 
 [Explore the repository →](https://github.com/KitCatasha/emoo-fs)
 
 ### 🌿 NÜGEL Website
+
 A product website for NÜGEL, combining my interest in web design with building a practical website using Next.js.
 
 [Explore the repository →](https://github.com/KitCatasha/nugel-website)
@@ -43,9 +45,34 @@ A product website for NÜGEL, combining my interest in web design with building 
 - 🚴 Badminton, cycling & travel
 - ✨ Anime & imaginative worlds
 
+## Fun Facts About Me
+
+- I love turtles
+- I have explored 21 countries so far
+- I'm always trying out new skills
+- I used to have 18 cats :p
+
+## My Little Coding Garden 🌱
+
+A little tree shaped by my GitHub journey and a snake wandering through it XD
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snake/github-snake.svg" />
+  <img src="./snake/github-snake.svg" width="100%" alt="A snake moving through my GitHub contributions" />
+</picture>
+
+<p align="center">
+  <img src="./output/bonsai-growth.gif" width="260" alt="My bonsai growing from my GitHub history" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/egorthinks/git-bonsai">Grown with Git Bonsai</a>
+</p>
+
 ## Let's Connect
 
-I’m always excited and open to connecting with anyone with similar interests. Let's exchange ideas and create something new!
+I’d love to connect with you, awesome people. Let's exchange ideas and create something new!
 
 <p>
   <a href="https://www.linkedin.com/in/natasha-machate/">
@@ -61,32 +88,6 @@ I’m always excited and open to connecting with anyone with similar interests. 
   </a>
 </p>
 
-## Fun Facts About Me
+Thanks for visiting my little corner of GitHub! 🐢
 
-- I love turtles
-- I have explored 21 countries so far
-- Always trying out new skills
-- I used to have 18 cats
-
-## My Little Coding Garden 🌱
-
-A little tree shaped by my GitHub journey.
-
-<p align="center">
-  <img src="./output/bonsai-growth.gif" width="260" alt="My bonsai growing from my GitHub history" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/egorthinks/git-bonsai">Grown with Git Bonsai</a>
-</p>
-
-Thanks for visiting my profile. I hope we can connect!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:527A64,50:579D90,100:486A89&height=100&section=footer" width="100%" alt="Decorative green-to-blue wave" />
-
-
-
-
-<!---
-KitCatasha/KitCatasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
