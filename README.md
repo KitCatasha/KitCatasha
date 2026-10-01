@@ -47,14 +47,24 @@ A product website for NÜGEL, combining my interest in web design with building 
 
 I’m always excited and open to connecting with anyone with similar interests. Let's exchange ideas and create something new!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-527A64?style=for-the-badge)](https://www.linkedin.com/in/natasha-machate/)
-[![Instagram](https://img.shields.io/badge/Instagram-786A98?style=for-the-badge)](https://www.instagram.com/natzyowild/)
-[![Email](https://img.shields.io/badge/Email-486A89?style=for-the-badge)](mailto:machate.natasha@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/natasha-machate/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/natzyowild/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:machate.natasha@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" alt="Email Natasha" />
+  </a>
+</p>
 
 ## Fun Facts About Me
 
 - I love turtles
-- I have explored 20 countries so far
+- I have explored 21 countries so far
 - Always trying out new skills
 - I used to have 18 cats
 
@@ -71,8 +81,7 @@ A little tree shaped by my GitHub journey.
 </p>
 
 Thanks for visiting my profile. I hope we can connect!
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:527A64,50:579D90,100:486A89&height=100&section=footer" width="100%" alt="Decorative green-to-blue wave" />
 
 
 
