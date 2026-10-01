@@ -63,7 +63,7 @@ I’m always excited and open to connecting with anyone with similar interests. 
 A little tree shaped by my GitHub journey.
 
 <p align="center">
-  <img src="./output/bonsai-growth.gif" width="384" alt="My bonsai growing from my GitHub history" />
+  <img src="./output/bonsai-growth.gif" width="260" alt="My bonsai growing from my GitHub history" />
 </p>
 
 <p align="center">
