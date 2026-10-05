@@ -63,6 +63,22 @@
 </p>
 </td>
 <td width="50%" valign="middle">
+<p align="center"><strong>🧬 ATAC-seq Analysis</strong></p>
+<p>Bulk ATAC-seq analysis comparing chromatin accessibility in regulatory and naive CD4+ T cells using R and Bash.</p>
+<p align="center">
+  <a href="https://github.com/KitCatasha/atac-seq-treg-analysis">Explore the repository →</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
+<p align="center"><strong>☕ GenExpresso</strong></p>
+<p>A Django platform for exploring public gene-expression datasets with PCA, UMAP and heatmap visualizations.</p>
+<p align="center">
+  <a href="https://github.com/KitCatasha/genexpresso">Explore the repository →</a>
+</p>
+</td>
+<td width="50%" valign="middle">
 <p align="center"><strong>🌿 NÜGEL Website</strong></p>
 <p>A product website for NÜGEL, combining my interest in web design with building a practical website using Next.js.</p>
 <p align="center">
